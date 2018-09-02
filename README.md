@@ -18,15 +18,15 @@ Nếu bạn không thích Download thư viện, bạn có thể sử dụng CDN 
 
 **CSS CDN**
 
-`<link rel="stylesheet" href="https://cdn.rawgit.com/lmint3010/rTouch/60f784d6/rTouch.css">`
+`<link rel="stylesheet" href="https://cdn.rawgit.com/lmint3010/R.Touch/d4a0c981/rTouch.css">`
 
 **JS CDN**
 
-`<script src="https://cdn.rawgit.com/lmint3010/rTouch/60f784d6/rTouch.js"></script>`
+`<script src="https://cdn.rawgit.com/lmint3010/R.Touch/d4a0c981/rTouch.js"></script>`
 
 hoặc
 
-`<script src="https://cdn.rawgit.com/lmint3010/rTouch/60f784d6/rTouch.min.js"></script>`
+`<script src="https://cdn.rawgit.com/lmint3010/R.Touch/d4a0c981/rTouch.min.js"></script>`
 
 ## Hướng dẫn sử dụng
 Các phần tử có thể được áp dụng sự kiện `click` đều có thể áp dụng hiệu ứng sóng nước.
