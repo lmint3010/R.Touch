@@ -20,7 +20,7 @@ document.addEventListener('DOMContentLoaded', function() {
     button[i].style.overflow = 'hidden';
     button[i].style.outline = 'none';
     button[i].appendChild(mask);
-    button[i].onclick = makeRipple;
+    button[i].addEventListener('click', makeRipple);
     button[i].addEventListener('animationend', function() {
       let oldCircle = this.querySelector('.rippleCircle');
       this.removeChild(oldCircle);
